@@ -1,0 +1,4 @@
+{
+    "command": "mysql -h localhost -u appuser -pdbuser123 -e \"SELECT VERSION()\"",
+    "working_directory": "/home/kavia/workspace/code-generation/culinary-ui-excellence-242772-242783/database"
+}
